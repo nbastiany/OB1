@@ -1,5 +1,9 @@
 # Enhanced MCP Server
 
+![Community Contribution](https://img.shields.io/badge/OB1_COMMUNITY-Approved_Contribution-2ea44f?style=for-the-badge&logo=github)
+
+**Created by [@alanshurafa](https://github.com/alanshurafa)**
+
 > Production-grade remote MCP server expanding the Open Brain tool surface from 4 to 13 tools with enhanced search, CRUD, enrichment, sensitivity detection, and operational monitoring.
 
 ## What It Does
